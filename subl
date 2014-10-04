@@ -1,0 +1,7 @@
+{
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+"ignored_packages":
+[
+     "Vintage"
+]
+}
